@@ -13,3 +13,5 @@ financial metrics:
 - bad months - where the profit after tax was less than the mean for the year
 - the best month - where the profit after tax was max for the year
 - the worst month - where the profit after tax was min for the year
+
+# Analyze
