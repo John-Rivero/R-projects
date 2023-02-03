@@ -1,4 +1,4 @@
-###Scenario
+### Scenario
 
 You are a Data Scientist working for a consulting firm. One of your
 colleagues from the Auditing department has asked you to help them assess the
