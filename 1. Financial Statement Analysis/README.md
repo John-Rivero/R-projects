@@ -18,6 +18,6 @@ financial metrics:
 
 [![2  Analysis image](https://user-images.githubusercontent.com/81208412/216556904-6983c23d-6203-47f0-b85a-91da7a47bf99.png)](https://github.com/John-Rivero/R-projects/blob/main/1.%20Financial%20Statement%20Analysis/Financial%20Statement%20Analysis.R)
 
-#Result
-
+# Result
+ 
 ![3  Analysis Result Image](https://user-images.githubusercontent.com/81208412/216557575-b9d56f1b-308e-4cf0-9a95-59de8ef7e964.png)
