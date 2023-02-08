@@ -23,5 +23,3 @@ Dataset is obtained from: www.superdatascience.com
 # Result
  
 ![3  Analysis Result Image](https://user-images.githubusercontent.com/81208412/216557575-b9d56f1b-308e-4cf0-9a95-59de8ef7e964.png)
-
-      January   February   March   April   May   June   July   August   September   October   November   Deceber
