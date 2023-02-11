@@ -1,18 +1,6 @@
 # Scenario
 
-You are a Data Scientist working for a consulting firm. One of your
-colleagues from the Auditing department has asked you to help them assess the
-financial statement of organisation X.
-You have been supplied with two vectors of data: monthly revenue and monthly
-expenses for the financial year in question. Your task is to calculate the following
-financial metrics:
-- profit for each month
-- profit after tax for each month (the tax rate is 30%)
-- profit margin for each month - equals to profit a after tax divided by revenue
-- good months - where the profit after tax was greater than the mean for the year
-- bad months - where the profit after tax was less than the mean for the year
-- the best month - where the profit after tax was max for the year
-- the worst month - where the profit after tax was min for the year
+This project involves creating three plots to provide insights into the performance of basketball players. The first plot will depict the number of free throw attempts per game for each player. The second plot will show the accuracy of free throws for each player. Finally, the third plot will represent the playing style of each player, specifically their preference for taking 2-point or 3-point shots excluding free throws. The data for the analysis will be supplied as vectors, and the first step will be to create two matrices from the data before proceeding with the analysis.
 
 Dataset is obtained from: www.superdatascience.com
 
