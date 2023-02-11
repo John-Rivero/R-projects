@@ -2,6 +2,12 @@
 
 This project involves creating three plots to provide insights into the performance of basketball players. The first plot will depict the number of free throw attempts per game for each player. The second plot will show the accuracy of free throws for each player. Finally, the third plot will represent the playing style of each player, specifically their preference for taking 2-point or 3-point shots excluding free throws. The data for the analysis will be supplied as vectors, and the first step will be to create two matrices from the data before proceeding with the analysis.
 
+
+
+# Initial Dataset
+![2  Initial Datasets](https://user-images.githubusercontent.com/81208412/217581271-0a59b9cb-8e54-4d1e-be3c-7b9d410636c8.png)
+
+
 Dataset is obtained from: www.superdatascience.com
 
 # Analysis
