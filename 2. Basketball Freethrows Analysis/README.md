@@ -10,6 +10,7 @@ The third plot will show the player's preference for 2-point and 3-point shots, 
 
 The R programming language will be used to create all the necessary code for data analysis and visualization. This project aims to provide a comprehensive analysis of basketball statistics to help coaches, players, and fans make informed decisions about the game.
 
+Dataset is obtained from: [www.superdatascience.com](https://www.superdatascience.com/pages/rcourse)
 
 
 # Initial Dataset
