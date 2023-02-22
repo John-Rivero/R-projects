@@ -1,6 +1,14 @@
 # Scenario
 
-This project involves creating three plots to provide insights into the performance of basketball players. The first plot will depict the number of free throw attempts per game for each player. The second plot will show the accuracy of free throws for each player. Finally, the third plot will represent the playing style of each player, specifically their preference for taking 2-point or 3-point shots excluding free throws. The data for the analysis will be supplied as vectors, and the first step will be to create two matrices from the data before proceeding with the analysis.
+This project aims to analyze in-game basketball statistics using the R programming language. The data for this project includes two new variables: Free Throws and Free Throw Attempts, which will be added to the existing data in the form of vectors. The first step is to convert the vectors into matrices to facilitate the analysis.
+
+The next step is to create three different plots that depict specific insights from the data. The first plot will show the average number of free throw attempts made by players per game. This will provide insight into how often players get fouled and how often they have the opportunity to make free throws.
+
+The second plot will display the accuracy of free throws made by the players. This plot will provide insights into the proficiency of the players in making free throws and their potential impact on the game.
+
+The third plot will show the player's preference for 2-point and 3-point shots, excluding free throws. This will provide insights into players' playing style and their potential impact on the game, excluding free throws.
+
+The R programming language will be used to create all the necessary code for data analysis and visualization. This project aims to provide a comprehensive analysis of basketball statistics to help coaches, players, and fans make informed decisions about the game.
 
 
 
