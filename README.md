@@ -2,6 +2,12 @@
 
 # Table of contents
 
+
+- [1. Financial Statement Analysis](#1-Financial-Statement-Analysis)
+
+- [2. The Impact of GDP on Fertility Rate: A Quantitative Analysis of National Wealth and Population Growth in R and Visualization in Tableau](#2-The-Impact-of-GDP-on-Fertility-Rate-A-Quantitative-Analysis-of-National-Wealth-and-Population-Growth-in-R-and-Visualization-in-Tableau)
+
+
 ## [1. Financial Statement Analysis](https://github.com/John-Rivero/R-projects/tree/main/1.%20Financial%20Statement%20Analysis)
 
 
